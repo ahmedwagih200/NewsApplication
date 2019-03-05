@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">News Application</string>
+    <string name="Category"> Category </string>
+    <string name="Type"> Type </string>
+    <string name="Title"> Title </string>
+    <string name="Date"> Date </string>
+    <string name="name">Author Name</string>
+    <string name="Nodata">No News For Now , You can come and check later </string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+
+    <string name="settings_order_by_most_recent_label">newest</string>
+    <string name="settings_order_by_most_recent_value" translatable="false">newest</string>
+
+    <string name="settings_order_by_oldest_label">oldest</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">newest</string>
+
+</resources>
