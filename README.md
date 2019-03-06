@@ -10,6 +10,6 @@ This project is about combining various ideas and skills learned from the androi
     Using an AsyncTask,
     Doing network operations independent of the Activity lifecycle,
     mplement the Preference Fragment,
-Launch a Settings Activity from a menu in the Main Activity,
-Use Uri.Builder class to add query parameters to the URL,
-Update and display the Preference Summary .
+    Launch a Settings Activity from a menu in the Main Activity,
+    Use Uri.Builder class to add query parameters to the URL,
+    Update and display the Preference Summary .
